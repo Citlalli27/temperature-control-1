@@ -5,7 +5,7 @@ function App() {
 // 1) Reemplaza estas variables por useState, puedes utilizar los valores iniciales que ya traen las variables
   let temperatureColor = 'cold'
   let temperatureValue = '10'
-  
+  //prueba
 // 2) Agregar las funciones para manejar los eventos de Click a los botones para que 
 //     cuando se presionen se incremente o decremente el valor de la temperatura. 
 
